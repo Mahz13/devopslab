@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 from app import app
 import unittest
-
+#test
 class Test(unittest.TestCase):
     def setUp(self):
         # cria uma instância do unittest, precisa do nome "setUp"
